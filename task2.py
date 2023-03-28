@@ -1,7 +1,7 @@
 # a)
 s = ['анТОн', 'НАТАЛЬЯ', 'никита', 'МаРиЯ', '!СЕРГЕЙ!', 'Владимир747', 'Павел+100500']
-s = ('     '.join(s ))
-print (s.title())
+s = ('     '.join(s))
+print(s.title())
 
 # b)
 def clean_names(names):
